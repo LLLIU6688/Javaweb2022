@@ -11,6 +11,6 @@ public class gitTest {
         System.out.println("master");
         System.out.println("fot-fix");
         System.out.println("push");
-
+        System.out.println("pull");
     }
 }
