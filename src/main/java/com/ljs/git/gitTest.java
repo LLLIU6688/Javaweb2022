@@ -10,5 +10,7 @@ public class gitTest {
         System.out.println("hello2");
         System.out.println("master");
         System.out.println("fot-fix");
+        System.out.println("push");
+
     }
 }
